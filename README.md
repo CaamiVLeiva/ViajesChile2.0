@@ -1,7 +1,5 @@
 # Proyecto "Viajes Chile"
 
-![Screenshot](https://tinyurl.com/22w9gwzn)
-
 ## Descripción del Proyecto
 
 Este proyecto es la landing page de Viajes Chile, desarrollada como parte de un proyecto final del módulo, utilizando HTML, Sass, y JavaScript para la lógica interactiva.
@@ -70,12 +68,6 @@ El proyecto sigue una estructura organizada con los siguientes archivos y carpet
     └── README.md
 ```
 
-
-## Ejemplo de Interfaz
-
-Aquí puedes ver una captura de pantalla del proyecto en acción:
-
-![Ejemplo de Interfaz](https://gifyu.com/image/StrDd)
 
 ## Instrucciones de Uso
 
