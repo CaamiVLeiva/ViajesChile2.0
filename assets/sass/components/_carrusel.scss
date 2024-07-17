@@ -1,0 +1,19 @@
+.carousel {
+    max-width: 100%;
+    overflow: hidden;
+    margin: 0 auto; 
+    margin-bottom: 20px; 
+
+    @media (min-width: 992px) { // Tamaño de pantalla grande
+        height: 500px;
+    }
+
+    @media (max-width: 991px) { // Tamaño de pantalla pequeño
+        height: 300px;
+    }
+}
+
+.carousel-item img {
+    max-width: 100%;
+    height: auto;
+}
